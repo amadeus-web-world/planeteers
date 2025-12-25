@@ -1,0 +1,20 @@
+#key	value
+name	Planeteers at AWW
+byline	The Dawning of a New PLANET
+year	2025
+
+|labels and messages
+iconName	Go, Planet!
+siteMenuName	DAWN's Planet
+|welcome-message	
+footer-message	Planeteers Shine Forth and Unite as Marvellous Heroes.
+
+|img and styles
+safeName	amadeusweb-planeteers
+mediakit	?palette=default
+fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	awareness
+local-url	http://localhost/dawn/planeteers/
+live-url	https://planeteers.amadeusweb.world/
